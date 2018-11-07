@@ -1,0 +1,31 @@
+{
+    "asset_types": [
+        "Code Libraries",
+        "Code Services"
+    ],
+    "author": {
+        "email": "corenodejs@clearblade.com"
+    },
+    "clouds": [],
+    "description": "Partial Implementation of NodeJs' Util library",
+    "domains": [],
+    "gateways": [],
+    "image_url": "https://docs.clearblade.com/v/3/static/img/default_package.png",
+    "keywords": [
+        "clearblade",
+        "iot",
+        "platform",
+        "util",
+        "node",
+        "js",
+        "library",
+        "core"
+    ],
+    "license": "MIT",
+    "name": "UtilNodeJs",
+    "private": false,
+    "prog_lang": [],
+    "protocols": [],
+    "things": [],
+    "version": "1.0.0"
+}

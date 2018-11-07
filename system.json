@@ -1,0 +1,10 @@
+{
+    "auth": true,
+    "deployments": [],
+    "description": "Partial Implementation of NodeJs' Util library",
+    "messaging_url": "messaging.clearblade.com:1883",
+    "name": "UtilNodeJs",
+    "platform_url": "https://platform.clearblade.com",
+    "system_key": "f6a590be0bdc87bba58397d285c201",
+    "system_secret": ""
+}

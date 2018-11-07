@@ -1,0 +1,8 @@
+{
+    "api": "",
+    "dependencies": "",
+    "description": "Partial Implementation of NodeJs' Util library",
+    "name": "UtilNodeJs",
+    "version": 7,
+    "visibility": "system"
+}
